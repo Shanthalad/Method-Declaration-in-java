@@ -1,0 +1,1 @@
+A simple program in java using method declaration defines a methods name, return type, parameters, and access level. it tells the compiler what the method does, but the method runs only when it is called.
